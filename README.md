@@ -1,11 +1,11 @@
 # laravel5-catala
 
-*en:* Language files for catalan language ready to install in any Laravel 5 project
+**en:** Language files for catalan language ready to install in any Laravel 5 project
 
 **ca:** Fitxers d'idioma català preparats per a instal·lar a qualsevol projecte Laravel 5
 
 ## Requeriments
-  * Tenir Laravel 5 instal·lat
+  * Tenir un projecte amb Laravel 5
 
 ## Procediment d'instal·lació dels fitxers d'idioma
 1. Descarregar el directori "ca" a l'ordinador
