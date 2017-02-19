@@ -14,3 +14,6 @@
 ## Com activar idioma català al projecte Laravel
 1. Dins el projecte Laravel, obrir el directori "conf" i editar el fitxer "app.php"
 2. Localitzar la línia on indica "'locale' => 'en'" i substituïr "en" per "ca"
+
+# Altres traduccions
+Hi ha un altre projecte a GitHub on també s'hi inclou una altra traducció al català: https://github.com/caouecs/Laravel-lang
